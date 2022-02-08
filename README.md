@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @OlexiyVoytovych
+- 👀 I’m interested in embedded electronics
